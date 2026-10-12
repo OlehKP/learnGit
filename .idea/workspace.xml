@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15a34719-fb85-4ab3-9135-3e0c0953980a" name="Changes" comment="show maxSpeed" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/ITE-27" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OlehKP&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/OlehKP/learnGit.git&quot;,
+    &quot;accountId&quot;: &quot;48fec9eb-4a27-4ec0-86be-f3240c2210ca&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3KbXKfquwSZpXne1Y2QmH5UX5de" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/koval/IdeaProjects/learnGit/learnGi/src/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="learnGit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="learnGit" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15a34719-fb85-4ab3-9135-3e0c0953980a" name="Changes" comment="" />
+      <created>1791827179638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791827179638</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first command created">
+      <option name="closed" value="true" />
+      <created>1791827435538</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791827435538</updated>
+    </task>
+    <task id="LOCAL-00002" summary="car price added">
+      <option name="closed" value="true" />
+      <created>1791827509513</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791827509513</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tüv added">
+      <option name="closed" value="true" />
+      <created>1791827586294</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791827586294</updated>
+    </task>
+    <task id="LOCAL-00004" summary="getters added">
+      <option name="closed" value="true" />
+      <created>1791827722626</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791827722626</updated>
+    </task>
+    <task id="LOCAL-00005" summary="year added">
+      <option name="closed" value="true" />
+      <created>1791827776760</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1791827776760</updated>
+    </task>
+    <task id="LOCAL-00006" summary="year added">
+      <option name="closed" value="true" />
+      <created>1791827822660</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1791827822660</updated>
+    </task>
+    <task id="LOCAL-00007" summary="country added">
+      <option name="closed" value="true" />
+      <created>1791827895366</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1791827895366</updated>
+    </task>
+    <task id="LOCAL-00008" summary="people added">
+      <option name="closed" value="true" />
+      <created>1791828818042</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1791828818042</updated>
+    </task>
+    <task id="LOCAL-00009" summary="age added">
+      <option name="closed" value="true" />
+      <created>1791828876464</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1791828876464</updated>
+    </task>
+    <task id="LOCAL-00010" summary="getter added">
+      <option name="closed" value="true" />
+      <created>1791828930933</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1791828930933</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feature added">
+      <option name="closed" value="true" />
+      <created>1791830312637</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1791830312637</updated>
+    </task>
+    <task id="LOCAL-00012" summary="show maxSpeed">
+      <option name="closed" value="true" />
+      <created>1791830364284</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1791830364284</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first command created" />
+    <MESSAGE value="car price added" />
+    <MESSAGE value="tüv added" />
+    <MESSAGE value="getters added" />
+    <MESSAGE value="year added" />
+    <MESSAGE value="country added" />
+    <MESSAGE value="people added" />
+    <MESSAGE value="age added" />
+    <MESSAGE value="getter added" />
+    <MESSAGE value="feature added" />
+    <MESSAGE value="show maxSpeed" />
+    <option name="LAST_COMMIT_MESSAGE" value="show maxSpeed" />
+  </component>
+</project>
