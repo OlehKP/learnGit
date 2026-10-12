@@ -6,7 +6,7 @@ public class Car {
     private static int year;
     private static String country;
 
-    public static int getMaxXpeed() {
+    public  int getMaxXpeed() {
         return maxXpeed;
     }
 
@@ -14,7 +14,7 @@ public class Car {
         Car.price = price;
     }
 
-    public static String getName() {
+    public String getName() {
         return name;
 
 
@@ -30,5 +30,19 @@ public class Car {
 
     public static void setTÜV(boolean TÜV) {
         Car.TÜV = TÜV;
+    }
+
+    public Car(String name, int maxXpeed, int price, boolean TÜV, int year, String country) {
+        this.name = name;
+        this.maxXpeed = maxXpeed;
+        this.price = price;
+        this.TÜV = TÜV;
+        this.year = year;
+        this.country = country;
+    }
+
+    @Override
+    public String toString() {
+        return "Car{}";
     }
 }
