@@ -10,6 +10,10 @@ public class Car {
         return maxXpeed;
     }
 
+    public static void setPrice(int price) {
+        Car.price = price;
+    }
+
     public static String getName() {
         return name;
 
