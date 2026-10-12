@@ -19,4 +19,12 @@ public class Car {
 
 
     }
+
+    public static String getCountry() {
+        return country;
+    }
+
+    public static int getYear() {
+        return year;
+    }
 }
