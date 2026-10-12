@@ -27,4 +27,8 @@ public class Car {
     public static int getYear() {
         return year;
     }
+
+    public static void setTÜV(boolean TÜV) {
+        Car.TÜV = TÜV;
+    }
 }
