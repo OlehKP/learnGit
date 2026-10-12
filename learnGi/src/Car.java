@@ -10,26 +10,8 @@ public class Car {
         return maxXpeed;
     }
 
-    public static void setPrice(int price) {
-        Car.price = price;
-    }
-
     public String getName() {
         return name;
-
-
-    }
-
-    public static String getCountry() {
-        return country;
-    }
-
-    public static int getYear() {
-        return year;
-    }
-
-    public static void setTÜV(boolean TÜV) {
-        Car.TÜV = TÜV;
     }
 
     public Car(String name, int maxXpeed, int price, boolean TÜV, int year, String country) {
